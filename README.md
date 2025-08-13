@@ -2,6 +2,7 @@
 
 A simple and interactive web app to track the countries you have visited!  
 Built using **Node.js**, **Express**, **PostgreSQL**, and **EJS** templating.
+(Training BackEnd)
 
 ---
 
