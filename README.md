@@ -9,9 +9,9 @@ Built using **Node.js**, **Express**, **PostgreSQL**, and **EJS** templating.
 
 ## 🧰 Technologies Used
 
+- **pg** (PostgreSQL client for Node.js)
 - **Node.js**  
-- **Express.js**  
-- **pg** (PostgreSQL client for Node.js)  
+- **Express.js**    
 - **EJS** (Embedded JavaScript templating)  
 - **CSS / HTML / JavaScript**  
 
