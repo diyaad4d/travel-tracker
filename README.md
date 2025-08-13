@@ -1,8 +1,9 @@
 # Travel-Tracker
 
 A simple and interactive web app to track the countries you have visited!  
-Built using **Node.js**, **Express**, **PostgreSQL**, and **EJS** templating.
-(Training BackEnd)
+Built using **Node.js**, **Express**, **PostgreSQL**, and **EJS** templating.  
+
+> 🏋️‍♂️ This project was built for **Back-End development training**.
 
 ---
 
@@ -30,3 +31,5 @@ Built using **Node.js**, **Express**, **PostgreSQL**, and **EJS** templating.
 
 **d4d Diyaa Daifi**  
 GitHub: [@diyaad4d](https://github.com/diyaad4d)  
+
+---
